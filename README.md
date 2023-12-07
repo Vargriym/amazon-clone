@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Amazon Clone built with React, Redux, & TailwindCSS.
+  Amazon Clone is built with React, Redux, & TailwindCSS.
 </p>
 
 <p align="center">
