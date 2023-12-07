@@ -1,47 +1,42 @@
-# Amazon Clone in React, Tailwind CSS & Redux
 
-![amazon_clone_v6](https://user-images.githubusercontent.com/17878339/231386523-1b0f7bb9-b83d-4a3e-a1bf-12405ebebbd2.png)
+<p align="center">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/amazon-clone/blob/master/amazon%20header.jpg">
+    <h1 align="center">Amazon Clone</h1>
+  </a>
+</p>
 
-This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
+<p align="center">
+  Amazon Clone built with React, Redux, & TailwindCSS.
+</p>
 
-## YouTube
+<p align="center">
+  <a href="#Introduction"><strong>Introduction</strong></a> ·
+    <a href="#Features"><strong>Features</strong></a> ·
+  <a href="#Tech-Stack"><strong>Tech Stack</strong></a> ·
+    <a href="#View-Demo"><strong>Live Demo</strong></a>
 
-[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
+  
+</p>
 
+<br/>
+
+## View Demo
+https://amazon-clone-pied-beta.vercel.app/
+
+<!-- ABOUT THE PROJECT -->
+
+## Introduction
+
+The objective of this project is to offer users a practical and effective means of managing and arranging their grocery shopping encounters. It presents a user-centric interface that enables effortless exploration of an extensive assortment of products, allowing users to effortlessly add items to their virtual shopping cart and seamlessly complete their purchase. By incorporating features such as customized shopping lists and instantaneous inventory updates, this endeavor aims to streamline users' grocery shopping experience and improve overall contentment.
 ## Features
 
-### Home Page
+- Personalized shopping lists.
+- Real-time inventory updates.
+- User-friendly interface.
+- Easily browse through a wide range of products.
+- Seamlessly proceed to checkout.
 
-Contains Carousel containing images and video:
-
-![HomePage](https://user-images.githubusercontent.com/17878339/230745262-681f4ad3-e34c-4a06-8ef3-d50218d93f94.gif)
-
-### Nav Bar
-
-Complete with search box that offers suggestions as you type: 
-
-![NavBar](https://user-images.githubusercontent.com/17878339/230745497-4136d398-1991-4d96-a3ef-de7e6ca9977a.gif)
-
-### Product Page
-
-![ProductPage](https://user-images.githubusercontent.com/17878339/230745350-f1f0825c-fc68-4f3d-a5cd-cb0e051d1aed.gif)
-
-### Checkout Page
-
-![Checkout](https://user-images.githubusercontent.com/17878339/230745697-b166ff53-b07d-4cac-9947-61688ac6c2a3.gif)
-
-## Prerequisites
-
-Node 14.x Version
-
-## Cloning the repository
-
-```shell
-git clone https://github.com/JonnyDavies/amazon-clone-frontend.git
-```
-
-## Start the app
-
-```shell
-npm start
-```
+## Tech stack
+- React
+- Redux
+- Tailwind
