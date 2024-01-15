@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
-  <a href="#Technoglogies-Used"><strong>Technologies Used</strong></a> ·
+  <a href="#Technologies-Used"><strong>Technologies Used</strong></a> ·
     <a href="#View-Demo"><strong>Live Demo</strong></a>
 
   
