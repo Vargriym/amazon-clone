@@ -27,7 +27,10 @@ https://amazon-clone-pied-beta.vercel.app/
 
 ## Introduction
 
-The objective of this project is to offer users a practical and effective means of managing and arranging their grocery shopping encounters. It presents a user-centric interface that enables effortless exploration of an extensive assortment of products, allowing users to effortlessly add items to their virtual shopping cart and seamlessly complete their purchase. By incorporating features such as customized shopping lists and instantaneous inventory updates, this endeavor aims to streamline users' grocery shopping experience and improve overall contentment.
+This project aims to replicate the core functionalities and user experience of the original Amazon website. Through the
+utilization of React, I successfully constructed a responsive and dynamic user interface that mimics the seamless
+navigation and interactivity of the real platform.
+
 ## Features
 
 - Personalized shopping lists.
