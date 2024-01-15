@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="#Introduction"><strong>Introduction</strong></a> ·
+  <a href="#How-I-worked-on-this-project"><strong>How I worked on this project</strong></a> ·
     <a href="#Features"><strong>Features</strong></a> ·
-  <a href="#Tech-Stack"><strong>Tech Stack</strong></a> ·
+  <a href="#Technoglogies-Used"><strong>Technologies Used</strong></a> ·
     <a href="#View-Demo"><strong>Live Demo</strong></a>
 
   
@@ -20,10 +20,21 @@
 
 <br/>
 
-## View Demo
-https://amazon-clone-pied-beta.vercel.app/
+## How I worked on this project
 
-<!-- ABOUT THE PROJECT -->
+The goal was to build a fully functional e-commerce site similar to Amazon. I took an iterative approach with 2 main phases:
+
+Planning:
+
+- Researched Amazon's key features and flows
+- Created user stories and component mapping
+
+Design:
+
+- Created UI mockups and page templates
+- Designed responsive components
+- Defined Redux store structure
+
 
 ## Introduction
 
@@ -39,7 +50,10 @@ navigation and interactivity of the real platform.
 - Easily browse through a wide range of products.
 - Seamlessly proceed to checkout.
 
-## Tech stack
+## Technologies Used
 - React
 - Redux
 - Tailwind
+
+## View Demo
+https://amazon-clone-pied-beta.vercel.app
