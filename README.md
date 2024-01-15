@@ -36,11 +36,6 @@ Design:
 - Defined Redux store structure
 
 
-## Introduction
-
-This project aims to replicate the core functionalities and user experience of the original Amazon website. Through the
-utilization of React, I successfully constructed a responsive and dynamic user interface that mimics the seamless
-navigation and interactivity of the real platform.
 
 ## Features
 
